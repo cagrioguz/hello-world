@@ -1,2 +1,4 @@
 # hello-world
-Öğreniyoruz bakalım
+Öğreniyoruz
+hayır
+
